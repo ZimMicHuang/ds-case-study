@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Sun Jan 16 22:42:13 2022
 
-This is a temporary script file.
+@author: micke
 """
 
 from binance.client import Client
