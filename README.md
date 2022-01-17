@@ -6,9 +6,9 @@ Step 1: Access tick/minute data from Binance.US using their REST API and store i
 Step 2: The objective of this case study is to scan and clean the data. Identify potential discrepancies in the data that may exist and implement data validations checks.
 
 
-btcusdt_downloader : download ohlcv data from binance and save to sql database (postgres)
+btcusdt_downloader.py : download ohlcv data from binance and save to sql database (postgres)
 
-btcusdt_cleaner : download data from sql and clean
+btcusdt_cleaner.py : download data from sql and clean
 
 Data Cleaning Notebook.ipynb : visuals and statistics on the data
 
